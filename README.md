@@ -16,4 +16,4 @@
 Nesse git você encontra vários códigos de projetos em arduino do canal...
 <br>
 <br>
-<img src="https://github.com/laboratorio-maker/laboratorio-maker/assets/141380073/d3770ea3-78de-4f36-9dc9-2a2e1b7a2eba" width="200" alt="Logo arduino">
+<img src="https://github.com/laboratorio-maker/laboratorio-maker/assets/141380073/d3770ea3-78de-4f36-9dc9-2a2e1b7a2eba" width="150" alt="Logo arduino">
